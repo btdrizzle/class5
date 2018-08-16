@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+}
+p {
+    line-height: 1.5;
+}
+.first {
+    font-family: 'Quicksand', sans-serif;
+    
+}
+.second {
+    font-family: 'Yatra One', cursive;
+
+}
+.third {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0.5;
+}
+.fourth {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.icon {
+    font-size: 24px;
+}
+.blue {
+    color: blue
+}
