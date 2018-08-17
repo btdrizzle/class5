@@ -26,3 +26,33 @@ p {
 .blue {
     color: blue
 }
+.links {
+    line-height: 3;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.definition {
+    color: purple;
+
+}
+.definition:hover {
+    color: orange;
+}
+.definition:visited {
+    color: green;
+    font-size: 3em;
+}
+.funmusic:hover {
+    background-color: turquoise;
+
+}
+.funmusic:focus {
+    color: pink;
+    
+}
+.ytmnd:hover {
+    background-color: goldenrod;
+}
